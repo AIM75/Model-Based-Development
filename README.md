@@ -15,6 +15,16 @@ To prepare engineers for the industry-standard **Model-Based Design (MBD)** work
 ---
 
 ## 📚 Course Sections Overview
+```mermaid
+pie showData
+    title Course Time Distribution (Total: 80h 42m)
+    "Core Fundamentals" : 22.67
+    "Control Systems" : 15.22
+    "Hardware Integration" : 5.78
+    "Code Generation" : 15.47
+    "Advanced Modeling" : 19.83
+    "Capstone Project" : 2.07
+```
 
 | Section | Title | Progress | Duration | Description |
 |--------|-------|----------|----------|-------------|
